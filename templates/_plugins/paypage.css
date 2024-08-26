@@ -1,0 +1,13 @@
+.pay-btn {
+    border: 2px solid #e1e1e1;
+    padding: 15px;
+    height: 80px;
+}
+
+.pay-btn img {
+    width: inherit;
+}
+
+.pay-btn[zender-pay=stripe] img {
+    width: 135px;
+}

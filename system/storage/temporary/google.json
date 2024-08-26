@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798105137428",
+    "project_id": "vouchcast-6bfa3",
+    "storage_bucket": "vouchcast-6bfa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798105137428:android:23440524e70f5d0277d201",
+        "android_client_info": {
+          "package_name": "com.vouchcast.chats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDApFlNoRHXfaocrC9lFkFzl--dF-FRyZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

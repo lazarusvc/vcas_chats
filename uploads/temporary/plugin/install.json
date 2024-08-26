@@ -1,0 +1,23 @@
+{
+  "id": "woocommerce",
+  "name": "WordPress WooCommerce Plugin",
+  "version": "3.0",
+  "actions": {
+    "build": {
+      "name": "Build",
+      "icon": "la la-download",
+      "color": "danger",
+      "action": "woocommerce"
+    }
+  },
+  "data": {
+    "woocommerce_prefix": "my_prefix",
+    "name": "My SMS and WhatsApp Module",
+    "desc": "Module description",
+    "author": "Author Name",
+    "author_uri": "https://yourdomain.com",
+    "freemius_id": "none",
+    "freemius_slug": "none",
+    "freemious_public_key": "none"
+  }
+}

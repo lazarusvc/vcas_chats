@@ -1,0 +1,4 @@
+/* Reduce landing page header logo ***********************************/
+.navbar-brand img {
+    width: 15% !important;
+}
